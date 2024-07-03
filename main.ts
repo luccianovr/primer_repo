@@ -3,3 +3,7 @@ function suma(num1: number, num2: number): number {
     return suma;
 }
 
+function resta(num1: number, num2: number): number {
+    return num1 - num2;
+}
+
